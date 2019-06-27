@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Split</string>
+    <!-- Strings related to login -->
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_homepage">homepage</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_welcome">welcome</string>
+    <string name="title_activity_create_grp">CreateGrp</string>
+    <string name="title_activity_main22">Main2Activity2</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
